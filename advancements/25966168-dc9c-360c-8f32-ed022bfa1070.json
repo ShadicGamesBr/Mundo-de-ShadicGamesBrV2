@@ -1,0 +1,42 @@
+{
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2022-12-10 23:11:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2022-12-10 23:10:27 -0300"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-12-10 23:10:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2022-12-10 23:11:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2022-12-10 23:11:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2022-12-10 23:06:59 -0300",
+      "minecraft:dark_forest": "2022-12-10 23:05:56 -0300",
+      "minecraft:grove": "2022-12-10 23:06:12 -0300",
+      "minecraft:meadow": "2022-12-10 23:07:59 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
