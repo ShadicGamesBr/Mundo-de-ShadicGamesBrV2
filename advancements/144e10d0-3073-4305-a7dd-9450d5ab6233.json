@@ -331,6 +331,7 @@
       "minecraft:skeleton": "2023-10-12 19:34:36 -0300",
       "minecraft:ravager": "2023-10-14 03:28:32 -0300",
       "minecraft:vindicator": "2023-10-14 02:31:58 -0300",
+      "minecraft:magma_cube": "2023-10-15 17:46:48 -0300",
       "minecraft:spider": "2023-10-12 21:25:30 -0300",
       "minecraft:creeper": "2023-10-12 21:25:23 -0300",
       "minecraft:evoker": "2023-10-14 03:39:00 -0300",
@@ -2280,15 +2281,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "minecraft:adventure/ol_betsy": {
     "criteria": {
-      "has_chicken": "2023-10-14 03:55:21 -0300"
+      "shot_crossbow": "2023-10-14 03:29:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2023-10-14 03:30:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2023-10-14 03:32:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2023-10-14 03:32:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2023-10-14 03:34:46 -0300"
     },
     "done": true
   },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2023-10-14 03:36:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2023-10-14 03:37:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2023-10-14 03:49:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2023-10-14 03:55:21 -0300"
     },
     "done": true
   },
@@ -2304,45 +2347,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/whos_the_pillager_now": {
+  "minecraft:adventure/play_jukebox_in_meadows": {
     "criteria": {
-      "kill_pillager": "2023-10-14 03:34:46 -0300"
+      "play_jukebox_in_meadows": "2023-10-15 17:44:41 -0300"
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
-      "shot_arrow": "2023-10-14 03:30:22 -0300"
+      "has_magma_cream": "2023-10-15 17:46:48 -0300"
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:story/cure_zombie_villager": {
     "criteria": {
-      "diamond_boots": "2023-10-14 03:37:51 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2023-10-14 03:32:31 -0300"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2023-10-14 03:49:14 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2023-10-14 03:32:31 -0300"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2023-10-14 03:29:27 -0300"
+      "cured_zombie": "2023-10-16 01:17:00 -0300"
     },
     "done": true
   },
