@@ -337,6 +337,7 @@
       "minecraft:spider": "2023-10-12 21:25:30 -0300",
       "minecraft:creeper": "2023-10-12 21:25:23 -0300",
       "minecraft:evoker": "2023-10-14 03:39:00 -0300",
+      "minecraft:phantom": "2023-10-20 17:51:00 -0300",
       "minecraft:zombified_piglin": "2023-10-12 19:20:47 -0300",
       "minecraft:witch": "2023-10-13 20:40:13 -0300",
       "minecraft:piglin": "2023-10-16 19:34:26 -0300",
@@ -2607,6 +2608,60 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2023-10-17 02:22:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2023-10-20 19:52:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2023-10-20 21:40:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2023-10-20 21:40:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2023-10-20 21:40:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-10-20 21:40:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2023-10-20 21:40:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-10-20 21:40:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-10-20 21:40:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2023-10-20 21:40:26 -0300"
     },
     "done": true
   },
