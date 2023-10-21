@@ -381,6 +381,7 @@
       "cooked_beef": "2023-10-14 02:33:29 -0300",
       "baked_potato": "2023-10-16 19:40:34 -0300",
       "bread": "2023-10-12 22:12:14 -0300",
+      "cooked_rabbit": "2023-10-21 02:42:29 -0300",
       "cooked_chicken": "2023-10-12 19:51:43 -0300"
     },
     "done": false
@@ -2623,18 +2624,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2023-10-20 21:40:28 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2023-10-20 21:40:27 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2023-10-20 21:40:26 -0300"
@@ -2662,6 +2651,18 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2023-10-20 21:40:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2023-10-20 21:40:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2023-10-20 21:40:28 -0300"
     },
     "done": true
   },
