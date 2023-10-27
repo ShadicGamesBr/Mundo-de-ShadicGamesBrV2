@@ -344,7 +344,8 @@
       "minecraft:enderman": "2023-10-12 19:22:04 -0300",
       "minecraft:endermite": "2023-10-13 21:24:06 -0300",
       "minecraft:vex": "2023-10-14 03:41:17 -0300",
-      "minecraft:zombie": "2023-10-12 21:25:28 -0300"
+      "minecraft:zombie": "2023-10-12 21:25:28 -0300",
+      "minecraft:zombie_villager": "2023-10-26 23:20:51 -0300"
     },
     "done": false
   },
@@ -2723,6 +2724,18 @@
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2023-10-26 03:16:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2023-10-27 00:06:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2023-10-27 00:06:25 -0300"
     },
     "done": true
   },
