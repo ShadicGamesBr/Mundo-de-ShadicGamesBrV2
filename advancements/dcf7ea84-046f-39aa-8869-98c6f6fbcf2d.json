@@ -11,9 +11,35 @@
       "minecraft:dark_forest": "2023-11-18 12:16:34 -0300",
       "minecraft:grove": "2023-11-18 12:16:13 -0300",
       "minecraft:forest": "2023-11-18 12:18:01 -0300",
-      "minecraft:meadow": "2023-11-18 12:17:05 -0300"
+      "minecraft:meadow": "2023-11-18 12:17:05 -0300",
+      "minecraft:savanna": "2023-11-20 12:02:45 -0300"
     },
     "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2023-11-20 12:02:12 -0300",
+      "minecraft:basalt_deltas": "2023-11-20 12:02:14 -0300"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-11-20 12:02:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-11-20 12:02:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2023-11-20 12:02:45 -0300"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
